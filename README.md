@@ -95,8 +95,6 @@ A **fully interactive HTML/CSS/JS prototype** of a redesigned CPA Canada homepag
 | **Web Fetch / Search** | Used to deep-read the live cpacanada.ca site, extract navigation structure, content hierarchy, membership FAQs, and event listings |
 | **Claude AI Artifact system** | Iterated the interactive prototype in real-time with design feedback loops |
 
-*This entire assignment — analysis, prototype code, and submission — was completed in under 2 hours using Claude as the primary AI tool.*
-
 ---
 
 ## 5. AI-Driven Feature Ideas & Their Impact
@@ -134,6 +132,3 @@ The current cpacanada.ca serves its members adequately but falls significantly s
 The highest-ROI changes are: (1) role-based homepage routing, (2) an AI chatbot for instant self-service, (3) a persistent member dashboard, and (4) smart CPD tracking. These can be implemented incrementally without a full site rebuild.
 
 ---
-
-*Prototype file: `cpacanada-redesign.html` — open locally in any modern browser*  
-*Tools: Claude AI (Anthropic) — analysis, design, code, and copywriting*
